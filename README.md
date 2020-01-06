@@ -1,6 +1,9 @@
 # Tested-Marjoram
 I Trained a Computer🖥️ to recognize a [HUMAN], [MOBILE PHONE], [BALL], [BOTTLE].I train an image classifier and import the machine learning model into a p5.js sketch with the ml5.js library. 
 
+![demo gif](https://giphy.com/gifs/du49yR8KRN6xV6HYia/html5)
+
+
 ### Prerequisites
 
 * No previous knowledge necessary, but some experience in Scratch, HTML, or Javascript will help.

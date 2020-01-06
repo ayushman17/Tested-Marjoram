@@ -25,7 +25,7 @@ This is made by **Ayushman Singh Chauhan (Me)**, I am a Student who is intereste
 
 ## License
 
-This project is licensed under the **Ayushman License** - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the **Ayushman License** - see the [LICENSE](LICENSE) file for details
 
 ## Contact
 Get in touch with Ayushman at: ascb508 [at] gmail.com if you would like to contribute feedback or ideas!

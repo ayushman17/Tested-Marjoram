@@ -4,7 +4,7 @@ I Trained a Computer🖥️ to recognize a [HUMAN], [MOBILE PHONE], [BALL], [BOT
 ### Prerequisites
 
 * No previous knowledge necessary, but some experience in Scratch, HTML, or Javascript will help.
-* Knowing how to use a web browser, and word processing (copy and paste, select text, typing) is required.
+* Knowing how to use a web browser, and word processing is required.
 
 ### Materials
 

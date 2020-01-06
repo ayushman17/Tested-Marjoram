@@ -1,8 +1,7 @@
 # Tested-Marjoram
 I Trained a Computer🖥️ to recognize a [HUMAN], [MOBILE PHONE], [BALL], [BOTTLE].I train an image classifier and import the machine learning model into a p5.js sketch with the ml5.js library. 
 
-![demo](https://giphy.com/gifs/du49yR8KRN6xV6HYia/html5)
-
+<iframe src="https://giphy.com/embed/du49yR8KRN6xV6HYia" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/du49yR8KRN6xV6HYia">via GIPHY</a></p>
 
 ### Prerequisites
 

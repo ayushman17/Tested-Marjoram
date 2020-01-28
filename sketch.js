@@ -51,5 +51,6 @@ function gotResults(error, results) {
     return;
   }
   label = results[0].label;
+ //console.log(results);
   classifyVideo();
 }

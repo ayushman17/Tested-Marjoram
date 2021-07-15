@@ -2,7 +2,7 @@
 I Trained a Computer🖥️ to recognize a [HUMAN], [MOBILE PHONE], [BALL], [BOTTLE].I train an image classifier and import the machine learning model into a p5.js sketch with the ml5.js library. 
 I pre-trained the model with 500 photos, and store the model in cloud.
 
-<a href="https://imgflip.com/gif/3lcncx"><img src="https://i.imgflip.com/3lcncx.gif"/></a>
+<a><img src="https://i.imgflip.com/3lcncx.gif"/></a>
 
 
 
